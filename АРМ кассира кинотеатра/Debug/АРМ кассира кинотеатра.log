@@ -1,2 +1,10 @@
 ﻿  main.cpp
-  АРМ кассира кинотеатра.vcxproj -> C:\Users\leong\source\repos\АРМ кассира кинотеатра\Debug\АРМ кассира кинотеатра.exe
+  Classic_Hall.cpp
+C:\Users\leong\source\repos\kyrcova9\АРМ кассира кинотеатра\Classic_Hall.cpp(8,27): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\leong\source\repos\kyrcova9\АРМ кассира кинотеатра\Classic_Hall.cpp(12,10): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+  Premium_Hall.cpp
+C:\Users\leong\source\repos\kyrcova9\АРМ кассира кинотеатра\Premium_Hall.cpp(10,27): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\leong\source\repos\kyrcova9\АРМ кассира кинотеатра\Premium_Hall.cpp(14,10): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+  Hall.cpp
+  Создание кода...
+  АРМ кассира кинотеатра.vcxproj -> C:\Users\leong\source\repos\kyrcova9\Debug\АРМ кассира кинотеатра.exe
